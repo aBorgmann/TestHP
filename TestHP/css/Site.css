@@ -1,0 +1,85 @@
+body {
+    background-color: #0C090A;
+	color: #0C090A;
+	text-align: center;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0);
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	}
+h1{
+	color: #FFFFFF;
+	font-size: 45px;
+ }	
+h2{
+	color: #FFFFFF;
+	font-size: 15px;
+ }
+ 
+p{
+	color: #CBB677;
+	font-size: 10px;
+ }
+#cvprofile{
+	height: 1080px;
+}
+ 
+ 
+#location{
+	font-size: 8px;
+	line-height: 1;
+} 
+#profile{
+	margin-top: 20px;
+}
+#reference{
+	margin-top: 60px;
+	line-height: 1;
+}
+#contact{
+	margin-top: 70px;
+}
+.semantic-data{
+	visibility:hidden;
+}
+#copyright{
+
+	color: #565051;
+	font-size: 10;
+	letter-spacing: 1px;
+	margin-top: 50px;
+}
+
+.navbar.affix{
+	top: 0px;
+
+}
+
+
+#pagetwo{
+	background-color: #858585;
+	margin-top: 50px;
+	line-height: 20;
+}
+
+#pagetree{
+	background-color: #858585;
+	margin-top: 50px;
+	line-height: 20;
+}
+
+#pagefour{
+	background-color: #858585;
+	margin-top: 50px;
+	line-height: 20;
+}
+ 
+footer{
+
+
+}
+ 
+
+
+
+	
